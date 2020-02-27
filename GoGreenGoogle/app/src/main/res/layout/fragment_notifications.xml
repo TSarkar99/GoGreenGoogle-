@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:alpha="0.4"
+        android:scaleType="fitXY"
+        android:src="@drawable/app_background" />
+
+    <TextView
+        android:id="@+id/week1"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="8dp"
+        android:background="#beffed"
+        android:gravity="center"
+        android:textAlignment="center"
+        android:textColor="@android:color/black"
+        android:textSize="30sp" />
+
+    <TextView
+        android:id="@+id/week2"
+        android:layout_below="@id/week1"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="8dp"
+        android:background="#beffed"
+        android:gravity="center"
+        android:textAlignment="center"
+        android:textColor="@android:color/black"
+        android:textSize="30sp"  />
+
+    <TextView
+        android:id="@+id/week3"
+        android:layout_below="@id/week2"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="8dp"
+        android:background="#beffed"
+        android:gravity="center"
+        android:textAlignment="center"
+        android:textColor="@android:color/black"
+        android:textSize="30sp"  />
+
+    <TextView
+        android:id="@+id/current"
+        android:layout_below="@id/week3"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="8dp"
+        android:background="#beffed"
+        android:gravity="center"
+        android:textAlignment="center"
+        android:textColor="@android:color/black"
+        android:textSize="30sp" />
+</RelativeLayout>
