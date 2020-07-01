@@ -8,4 +8,4 @@ Won the 2nd position for making an android application on the same.
 
 The application measured the carbon footprint of google searches and presented a weekly/monthly analytical data, and also in form of graphs that are formed using an API call, indicating the user regarding their respective usage. It also provides the analytical data about the current carbon-footprint of a day.
 
-Link to the below presentation my team presented to the jury: https://slides.com/ts99/gogreengoogle_project#/
+Link provided is of the presentation my team presented to the jury: https://slides.com/ts99/gogreengoogle_project#/
